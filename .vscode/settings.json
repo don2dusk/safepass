@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SafePass",
+            "database": "/Users/otega/Library/Developer/CoreSimulator/Devices/C7EA52B6-C471-479A-8C12-4AFA89EFC45A/data/Containers/Data/Application/28D5D0E5-8E8B-42AB-AC36-80F8C1928628/Documents/safepass.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SafePass_new",
+            "database": "/Users/otega/Library/Developer/CoreSimulator/Devices/C7EA52B6-C471-479A-8C12-4AFA89EFC45A/data/Containers/Data/Application/7B7D8DA7-6B05-4858-81BC-B0C567278C44/Documents/safepass.db"
+        }
+    ]
+}
